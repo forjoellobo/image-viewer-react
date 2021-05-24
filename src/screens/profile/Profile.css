@@ -9,6 +9,7 @@
 }
 .row1 {
     display:flex;
+    flex-wrap: wrap;
     height:100%;
 }
 .column-left {
